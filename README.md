@@ -1,6 +1,6 @@
 # Sierra Leone Football Agency Website
 
-##DIT1101F
+## DIT1101F
 Ahmed J Kamara
 David Collier
 Ayodele Strasser King
@@ -91,5 +91,6 @@ Live demo: [https://your-username.github.io/sierra-leone-football-agency/](https
 
 ## License
 This project is for educational purposes only. © 2025 Sierra Leone Football Agency (Fictional).
+
 
 If you encounter any issues or need modifications, contact micmedjr@gmail.com.
