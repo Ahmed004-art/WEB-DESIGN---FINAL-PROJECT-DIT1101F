@@ -2,8 +2,8 @@
 
 ## DIT1101F
 - **Ahmed J Kamara**
--**David Collier**
--**Ayodele Strasser King**
+- **David Collier**
+- **Ayodele Strasser King**
 
 ## Overview
 This project is a fully functional front-end website for the Sierra Leone Football Agency, developed as part of the Faculty of Information & Communications Technology Semester 3 Assignment/Project Brief (September 2025 to February 2026). The website is built using HTML, CSS, and optional JavaScript, ensuring it is responsive, user-friendly, and well-designed. It includes all required pages: Home, Players, Matches, About Us, and Contact.
@@ -94,4 +94,5 @@ This project is for educational purposes only. © 2025 Sierra Leone Football Age
 
 
 If you encounter any issues or need modifications, contact micmedjr@gmail.com
+
 
