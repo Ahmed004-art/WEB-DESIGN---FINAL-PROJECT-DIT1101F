@@ -1,9 +1,9 @@
 # Sierra Leone Football Agency Website
 
 ## DIT1101F
-Ahmed J Kamara
-David Collier
-Ayodele Strasser King
+- **Ahmed J Kamara**
+-**David Collier**
+-**Ayodele Strasser King**
 
 ## Overview
 This project is a fully functional front-end website for the Sierra Leone Football Agency, developed as part of the Faculty of Information & Communications Technology Semester 3 Assignment/Project Brief (September 2025 to February 2026). The website is built using HTML, CSS, and optional JavaScript, ensuring it is responsive, user-friendly, and well-designed. It includes all required pages: Home, Players, Matches, About Us, and Contact.
@@ -82,10 +82,10 @@ For actual screenshots, refer to the project booklet or view in a browser.
 This repository is ready for submission. It includes all source files, and the site can be demoed via GitHub Pages (enable in repo settings > Pages > Source: main branch).
 
 ## Demo
-Live demo: [https://your-username.github.io/sierra-leone-football-agency/](https://your-username.github.io/sierra-leone-football-agency/) (Replace with actual link after hosting.)
+Live demo: [https://Ahmed004-art.github.io/sierra-leone-football-agency/](https://Ahmed004-art.github.io/sierra-leone-football-agency/) (Replace with actual link after hosting.)
 
 ## Credits
-- Developed by Group E, University of Sierra Leone.
+- Developed by Group E,  Limkokwing University of Sierra Leone.
 - Placeholder images from Unsplash(Some).
 - Assignment based on the provided brief for a Football Agency Website.
 
@@ -93,4 +93,5 @@ Live demo: [https://your-username.github.io/sierra-leone-football-agency/](https
 This project is for educational purposes only. © 2025 Sierra Leone Football Agency (Fictional).
 
 
-If you encounter any issues or need modifications, contact micmedjr@gmail.com.
+If you encounter any issues or need modifications, contact micmedjr@gmail.com
+
