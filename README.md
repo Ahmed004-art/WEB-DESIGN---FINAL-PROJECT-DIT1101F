@@ -31,7 +31,7 @@ No external frameworks or libraries were used to keep it lightweight and complia
 ## Installation and Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/sierra-leone-football-agency.git
+   git clone https://github.com/Ahmed004-art/sierra-leone-football-agency.git
    ```
 2. Navigate to the project directory:
    ```
@@ -49,26 +49,25 @@ sierra-leone-football-agency/
 ├── matches.html        # Matches Page
 ├── about.html          # About Us Page
 ├── contact.html        # Contact Page
-├── style.css           # Shared CSS styles
-├── script.js           # Optional JavaScript
+├── Images         # Images associted with site
 └── README.md           # This file
 ```
 
 ## Screenshots
 - **Home Page**: Features a welcome banner and animated news section.  
-  (Imagine: A green header with navigation, central banner image of a football field, and scrolling news text below.)
+  ( A green header with navigation, central banner image of a football field, and scrolling news text below.)
   
 - **Players Page**: List of player profiles with images and details.  
-  (Imagine: Card-like profiles side-by-side on desktop, stacked on mobile.)
+  ( Card-like profiles side-by-side on desktop, stacked on mobile.)
   
 - **Matches Page**: Tabular display of fixtures.  
-  (Imagine: A simple HTML table with dates, matches, and results.)
+  ( A simple HTML table with dates, matches, and results.)
   
 - **About Us Page**: Text sections on vision, mission, and staff.  
-  (Imagine: Headings with paragraphs and an unordered list.)
+  (Headings with paragraphs and an unordered list.)
   
 - **Contact Page**: Form and contact info.  
-  (Imagine: Input fields for name, email, message, with a submit button.)
+  ( Input fields for name, email, message, with a submit button.)
 
 For actual screenshots, refer to the project booklet or view in a browser.
 
@@ -94,5 +93,6 @@ This project is for educational purposes only. © 2025 Sierra Leone Football Age
 
 
 If you encounter any issues or need modifications, contact micmedjr@gmail.com
+
 
 
