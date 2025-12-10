@@ -31,11 +31,10 @@ No external frameworks or libraries were used to keep it lightweight and complia
 ## Installation and Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/Ahmed004-art/sierra-leone-football-agency.git
-   ```
+   git clone https://github.com/Ahmed004-art/WEB-DESIGN---FINAL-PROJECT-DIT1101F/
 2. Navigate to the project directory:
    ```
-   cd sierra-leone-football-agency
+   cd FINAL PROJECT - DIT1101F
    ```
 3. Open `index.html` in any modern web browser (e.g., Chrome, Firefox) to view the site locally.
 
@@ -93,6 +92,7 @@ This project is for educational purposes only. © 2025 Sierra Leone Football Age
 
 
 If you encounter any issues or need modifications, contact micmedjr@gmail.com
+
 
 
 
